@@ -1,0 +1,29 @@
+div {
+  margin: 0 0 1rem 0;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  box-sizing: border-box;
+}
+div section {
+  border: 1px solid red;
+  background-color: rgb(200, 0, 0);
+  padding: 1rem;
+  margin: 1rem;
+}
+div section .wrapper {
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+  margin: 1rem;
+  color: white;
+  font-size: 0.8rem;
+}
+div section .wrapper button {
+  border: none;
+  padding: 0.5rem 2rem;
+}
+div section p {
+  color: white;
+  margin: 0 1rem;
+}/*# sourceMappingURL=Question.css.map */
